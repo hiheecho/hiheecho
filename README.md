@@ -5,7 +5,7 @@
 <div align="center">
   
 ## 📚 &nbsp; About Me &nbsp; 📚
- <a href="[클릭시 이동할 링크](https://velog.io/@jhh7929)" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"></a>
+ <a href="https://velog.io/@jhh7929" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=FFFFFF"></a>
     <a href="mailto:jhh7929@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=jhh7929@gmail.com"/></a>
 
 <br> 
